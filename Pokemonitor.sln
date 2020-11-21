@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemonitor", "Pokemonitor\Pokemonitor.csproj", "{AC59EC03-F15C-42F8-966A-C68E290BD2E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC59EC03-F15C-42F8-966A-C68E290BD2E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC59EC03-F15C-42F8-966A-C68E290BD2E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC59EC03-F15C-42F8-966A-C68E290BD2E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC59EC03-F15C-42F8-966A-C68E290BD2E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F3010B4-52CC-47A9-A25B-8C0EBAA9E317}
+	EndGlobalSection
+EndGlobal
